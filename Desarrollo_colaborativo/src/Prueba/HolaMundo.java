@@ -13,7 +13,7 @@ public class HolaMundo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		//modifique comentario desde github
+		//comentario para saber si puedo pisar desde eclipse
 		System.out.println("Hola mundo");
 	}
 
